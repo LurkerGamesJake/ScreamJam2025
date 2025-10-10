@@ -1,0 +1,20 @@
+# Python / Pygame ignore rules
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.log
+.env
+.venv/
+build/
+dist/
+*.exe
+*.zip
+*.tar.gz
+*.mp4
+*.wav
+*.ogg
+*.blend1
+*.psd
+*.tmp
